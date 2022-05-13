@@ -1,0 +1,11 @@
+.card-img-top {
+  width: 200px;
+  height: auto;
+}
+
+
+.pokemons-item {
+  border: 3px solid;
+  border-radius: 30px;
+  border-color: rgb(8, 208, 8);
+}
